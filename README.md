@@ -1,6 +1,6 @@
-# Simple web site with login
+# Web site with login
 
-This a simple Node.js web site with a basic login form and sessions.
+A simple Node.js web site with a basic login form and sessions.
 
 
 ## Requirements
@@ -14,12 +14,12 @@ Before you can run this project, you need the following:
 
 Clone this repository:
 ```
-git clone https://github.com/Learn-by-doing/simple-web-site-with-login.git
+git clone https://github.com/Learn-by-doing/web-site-with-login.git
 ```
 
 Change into the new directory:
 ```
-cd simple-web-site-with-login
+cd web-site-with-login
 ```
 
 Install node modules:
